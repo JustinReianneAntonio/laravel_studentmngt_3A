@@ -21,7 +21,7 @@
                     <div class="card">
                         <div class="card-body">
                             <p class="card-text">
-                                {{ __('You are logged in kaa!') }}
+                                {{ __('You are logged in kaaa!') }}
                             </p>
                         </div>
                     </div>
