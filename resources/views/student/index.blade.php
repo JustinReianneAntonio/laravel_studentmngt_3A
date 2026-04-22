@@ -14,13 +14,7 @@
                 <th>Created At</th>
             </tr>
         </thead>
-        <tbody>
 
-            <tr>
-                <td>Justin </td>
-                <td>BSIT</td>
-            </tr>
-        </tbody>
     </table>
 </div>
 @endsection
